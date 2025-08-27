@@ -28,8 +28,8 @@ A simple **YouTube video and audio downloader** with a clean **PyQt5 GUI**, powe
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/youtube-downloader-gui.git
-cd youtube-downloader-gui
+git clone https://github.com/EpicCat69/YouTube-Video-Downloader.git
+cd YouTube-Video-Downloader
 ```
 
 ### 2. Install dependencies
